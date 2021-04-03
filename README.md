@@ -9,3 +9,6 @@ A Basic Setup for Express JS
 - Mongoose Connection  
 - Example Models for users and Posts crud operation 
 - Mongoose Joining example 
+
+## Install this project directly using NPM 
+- npm install expressjs-project
