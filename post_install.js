@@ -2,7 +2,7 @@
 
 var gentlyCopy = require('gently-copy')
 
-var filesToCopy = ['lib', '.env', 'app.js', 'config.js', 'database.js', 'package.json'];
+var filesToCopy = ['lib', '.env', 'app.js', 'config.js', 'database.js'];
 
 // User's local directory
 var userPath = process.env.INIT_CWD
