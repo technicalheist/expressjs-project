@@ -13,6 +13,6 @@ function(err,link){
     assert.strictEqual(err,null, 'DB Connect Failed');
 
     //success
-    console.log('success'); 
+    console.log('Connected to MongoDB'); 
     //console.log(link);
 });
